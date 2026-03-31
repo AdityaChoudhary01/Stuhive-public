@@ -1,12 +1,3 @@
-Viewed README.md:1-250
-
-I have crafted a **Hyper-Ultra Premium Public Repo Guide** for **StuHive**. This version is designed specifically for public visibility, SEO backlinks, and showcasing your technical dominance to potential contributors or employers. 🌚🚀🔐✨
-
-It includes the latest **Next.js 15 ISR** updates, the **Self-Healing Database** pattern, and the **Mobile APK** download section.
-
-### 📑 README_PUBLIC.md
-
-```markdown
 # 📑 StuHive: The Cinematic Academic Discovery Engine
 
 <p align="center">
