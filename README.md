@@ -25,7 +25,7 @@
 > **🚀 StuHive Android APK is now available for direct download!**
 > Experience the full power of the Hive with native performance, push notifications, and high-spec PDF rendering.
 > 
-> [<img src="https://img.shields.io/badge/Download-Android%20APK-00C853?style=for-the-badge&logo=android&logoColor=white" />](https://www.stuhive.in/download-app) *(Download the latest Production APK)*
+> [<img src="https://img.shields.io/badge/Download-Android%20APK-00C853?style=for-the-badge&logo=android&logoColor=white" />](https://github.com/AdityaChoudhary01/Stuhive-public/releases/download/v1.1.0/StuHive.apk) *(Download the latest Production APK)*
 
 ### 🌓 Cross-Platform Synergy
 - **Deep Linking**: Share a link on WhatsApp, and it opens the specific note instantly in the App.
